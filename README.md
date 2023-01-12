@@ -21,12 +21,6 @@ Plum is a fresh line of 100% vegan beauty products that’s all about “being g
 - Address & Payment.
 - Checkout - Credit/Debit card payment option.
 
-## Run Locally
-
-Clone the project
-
--[git clone](https://github.com/vaibhav123-dev/Clone-of-plumgoodness.com)
-
 ## Acknowledgements
 
 - [plum Goodness](https://plumgoodness.com/)
